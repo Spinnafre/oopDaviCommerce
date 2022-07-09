@@ -37,7 +37,7 @@ Você precisa verificar se foi criado o banco de dados com nome 'myCommerce'
 
 Depois de ter criado o banco de dados, é necessário clonar o repositório na máquina:
 ```sh
-$ git clone https://github.com/Spinnafre/myCommerce.git
+$ git clone https://github.com/Spinnafre/oopDaviCommerce.git
 ```
 
 Você precisa ter o <kbd>[NodeJS](https://nodejs.org/en/download/)</kbd> instalado na sua máquina. 
