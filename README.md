@@ -1,13 +1,16 @@
-# myCommerce
+# daviStore
 
 <h3 align="center">
 
-Projeto desenvolvido visando aplicar conceitos de banco de dados com Node.
+Projeto desenvolvido visando aplicar conceitos de OOP com Node.
 
 </h3>
 
 
-Video explicando o projeto: 
+Video explicando o projeto: https://youtu.be/6W8Kygn-V9s
+
+OBS: Também foi desenvolvido o envio de arquivos pelo api, no qual basta acesssar a rota : htttp://localhost:3333/products/image, passar um multipart form
+com atributo image com formato de arquivo e a api irá retornar um json contendo a image_url (url da imagem) que irá ser usado para atrelar ao produto.
 
 ## **:computer: TECNOLOGIAS**
 
